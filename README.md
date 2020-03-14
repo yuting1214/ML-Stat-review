@@ -5,6 +5,8 @@ ML &amp; Stat review for job preparation
 - Probability
 
 - Statistics
+  - What's statistics?
+    - Statistics as a subject provides a body of principles and methodology for designing the process of data collection, summarizing and interpreting the data, and drawing conclusions or generalities.
 
 - Design of Experiment
 
