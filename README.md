@@ -27,3 +27,6 @@ ML &amp; Stat review for job preparation
     - Hyperparameter selection
     - ensemble learning
     - predictve model
+    
+# Reference
+- Statistics: Principles and Methods, 6th Edition
