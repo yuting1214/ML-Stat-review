@@ -37,6 +37,9 @@ ML &amp; Stat review for job preparation
   - Outlier detection
   - Imbalanced label
   - Missing value
+  
+# Review Record
+3/14 30 min **Statistics**
     
 # Reference
 - Statistics: Principles and Methods, 6th Edition
