@@ -7,6 +7,9 @@ ML &amp; Stat review for job preparation
 - Statistics
   - What's statistics?
     - Statistics as a subject provides a body of principles and methodology for designing the process of data collection, summarizing and interpreting the data, and drawing conclusions or generalities.
+  - The major objectives of statistics are:
+    - 1. To make inferences about a population from an analysis of information contained in sample data. This includes assessments of the extent of uncertainty involved in these inferences.
+    - 2. To design the process and the extent of sampling so that the observations form a basis for drawing valid inferences
 
 - Design of Experiment
 
