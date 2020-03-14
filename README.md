@@ -33,5 +33,10 @@ ML &amp; Stat review for job preparation
     - ensemble learning
     - predictve model
     
+- Some issues
+  - Outlier detection
+  - Imbalanced label
+  - Missing value
+    
 # Reference
 - Statistics: Principles and Methods, 6th Edition
